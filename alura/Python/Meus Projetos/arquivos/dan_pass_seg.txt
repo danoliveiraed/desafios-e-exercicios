@@ -1,0 +1,8 @@
+usuario,senha
+daniel,1234
+daomé,1234
+daomé,1234
+fabio,1234
+canario,1234
+camaro,1234
+daniella,1234

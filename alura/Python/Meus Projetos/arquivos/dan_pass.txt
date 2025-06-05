@@ -1,0 +1,19 @@
+registro,usuario,senha
+Teste,arquivo,senha
+Teste,arquivo,senha
+Banco,daniel,(2$ifqtE
+Gympass,daniella@alinda,1234
+Teatro,btc,FASH9D
+Teste,sem_user,uv
+Agora,vaidar,certo
+
+
+
+Alura,daniella@linda,T$T#RO67
+
+
+Teste Num,daniel,
+Daniel,daniel_mesmo,
+Teste,dani,
+
+Shopping,daniel,VDgh.ttY
